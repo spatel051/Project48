@@ -41,7 +41,7 @@ function preload(){
   instructionImage = loadImage("instructions.png");
   titleImage = loadImage("text.png");
   playButtonImage = loadImage("playButton.png");
-  stoneImage = loadImage("stone.jpg");
+  stoneImage = loadImage("Stone.jpg");
   portalImage = loadImage("portal.jpg");
   background2Image = loadImage("background2.jpg");
   background3Image = loadImage("background4.jpg");
